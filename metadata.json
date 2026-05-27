@@ -1,0 +1,8 @@
+{
+  "name": "Auto Vectorization in Compiler",
+  "description": "A modern compiler visualization platform that analyzes C programs and explains SIMD auto-vectorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
